@@ -1,3 +1,5 @@
+☁️ Day 1 — AWS Introduction & EC2 Basics
+
 🎯 Today's Goal
 Get your AWS account live and launch your first EC2 virtual machine in the cloud.
 By end of today — you should have a running server on AWS. That's the mission. 💪
